@@ -1,6 +1,6 @@
-# CVAR_analysis
+# VAR_CVAR_analysis
 
-Conditional Value at Risk Analysis
+![GIF](VAR_CVAR_simple.gif)
 
 Shows the basic value at risk (VAR) and conditional value at risk (CVAR) analysis on [yfinance](https://pypi.org/project/yfinance/) collected data using Python.
 
